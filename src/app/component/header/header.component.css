@@ -1,0 +1,12 @@
+.search-icon{
+    position: absolute;
+    z-index: 10;
+    left: 35%;
+    top: 30%;
+    color: blue;  
+}
+
+.cart-plus{ 
+    margin-right: 5px;
+    right: 100px;
+}
